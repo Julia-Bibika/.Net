@@ -1,0 +1,131 @@
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cs
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\appsettings.Development.json
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\appsettings.json
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets\msbuild.Lab1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab1.props
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab1.props
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab1.props
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\scopedcss\bundle\Lab1.styles.css
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+E:\Лабораторна робота C# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cs
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\appsettings.Development.json
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\appsettings.json
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Azure.Core.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Azure.Identity.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Humanizer.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.CodeDom.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Memory.Data.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Text.Json.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets\msbuild.Lab1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab1.props
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab1.props
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab1.props
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.build.json
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\staticwebassets.development.json
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\scopedcss\bundle\Lab1.styles.css
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+E:\LaboratoryC# (Antosyak)\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
